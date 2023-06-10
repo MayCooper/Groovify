@@ -1,5 +1,5 @@
 # Groovify
-The music playing app that brings you songs you love by May Cooper, created from scratch using Javascript,  Python, MySQL, PHP, JQuery, Ajax, Apache, and more.
+The music playing app that brings you songs you love by May Cooper, created from scratch using Javascript,  Python, MySQL, PHP, JQuery, Ajax, Apache, Jira for posting issues, and more.
 
 You have the ability to upload music, click on albums, and play songs. Additionally, playlists can be created, modified, and songs can be added or removed from them. Navigating to artists' pages allows you to explore their songs and albums. Moreover, you can update details and search for music artists and albums.
 
@@ -262,12 +262,186 @@ Inserting songs into the database:
 <img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/insertIntoGenres.png" alt="insertIntoGenres">
 <img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/insertIntoArtists.png" alt="insertIntoArtists">
 
-Styling left navigation bar with site links:
+Styling left navigation bar with site links code:
 
 <img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/leftSectionStylingCode.png" alt="leftSectionStylingCode">
+
+Result:
 <img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/leftSectionStylingResult.png" alt="leftSectionStylingResult">
 
-Organising the header and footer folders away from the index:
+Organising the header and footer folders away from the index code:
 
 <img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/gridViewContainer.png" alt="gridViewContainer">
+
+Rudimentary result:
+
 <img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/gridViewContainerStyling.png" alt="gridViewContainerStyling">
+
+Creating the first stages of showing the albums code:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/showingAlbums.png" alt="showingAlbums">
+
+Album page beginnings: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/albumPageBeginnings.png" alt="albumPageBeginnings">
+
+Adding more albums and styling of the album page:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/albumPageMoreAlbums.png" alt="albumPageMoreAlbums">
+
+Passing an ID with the name of each album code, first with the Artist class:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/passingIdCode.png" alt="passingIdCode"> 
+
+And the Album class:
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/albumClassPassingId.png" alt="albumClassPassingId"> 
+
+Testing result:
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/passingId.png" alt="passingId"> 
+
+Echoing artist name:
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/echoingArtistName.png" alt="echoingArtistName"> 
+
+Styling the artist name, album name, spacing, padding, margins, etc:
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/stylingAlbumPage.png" alt="stylingAlbumPage"> 
+
+Creating a while loop to loop through songs in an album, but not yet styled:
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/loopingThroughSongsInAlbum.png" alt="loopingThroughSongsInAlbum"> 
+
+Result:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/loopingThroughSongsInAlbumResult.png" alt="loopingThroughSongsInAlbumResult"> 
+
+Adding duration to songs, as well as several other icons before styling: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/durationToSongsPreStyling.png" alt="durationToSongsPreStyling"> 
+
+Posting issues on Jira:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/postingIssuesJira.png" alt="postingIssuesJira"> 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/postingIssuesJira2.png" alt="postingIssuesJira2"> 
+
+Styling the internal album page that you'd see when you click on the album name:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/stylingInternalAlbumPage.png" alt="stylingInternalAlbumPage"> 
+
+After styling, final product:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/internalAlbumPageStylingFinal.png" alt="internalAlbumPageStylingFinal"> 
+
+Clicking into another album to see the styling across the site:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/internalAlbumPageStylingFinal2.png" alt="internalAlbumPageStylingFinal2"> 
+
+Creating a javascript array for playing music, converting it to JSON through a PHP tag:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/jsArrayPhpTag.png" alt="jsArrayPhpTag"> 
+
+Seeing the results of the array: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/seeingArrayResults.png" alt="seeingArrayResults"> 
+
+Adding a JQuery object with Google-hosted ajax:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/jQueryObjectAjax.png" alt="jQueryObjectAjax"> 
+
+Creating the playlist (track function) set up with the document block:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/creatingPlaylistTrackFunction.png" alt="creatingPlaylistTrackFunction"> 
+
+Coming up with a technical issue: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/techIssue.png" alt="techIssue"> 
+
+Creating Jira ticket for it:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/jiraIssue.png" alt="jiraIssue"> 
+
+The issue was that the a function called setTrack that sets a new track for audioElement and plays was missing the definition of audioElement. 
+
+To fix this, I created a new instance of the Audio object, created outside the setTrack function, to ensure it is accessible within the function. 
+
+The setTrack function takes three parameters (trackId, newPlaylist, and play).
+
+After setting the track using audioElement.setTrack, the code checks the play parameter. If it is true, it calls the play method of the audioElement.audio object to start playing the audio. 
+
+This fixed the issue. 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/jiraProgress.png" alt="jiraProgress"> 
+
+Created element for the play button function code:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/playButtonFunction.png" alt="playButtonFunction"> 
+
+Now, we’re adding the pause and play functions:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/pauseAndPlayFunctions.png" alt="pauseAndPlayFunctions"> 
+
+The setTrack function is responsible for setting the track of an audio element. It takes parameters such as the trackId, newPlaylist, and play. It sets the audio track to a specific file, "assets/music/bensound-clearday.mp3". If the play parameter is true, it also plays the audio.
+
+The playSong function is used to start playing a song. It hides the "play" button and shows the "pause" button in the user interface using specific CSS classes. Additionally, it plays the audio by calling the play method on the audioElement.
+
+Now we are going to change the hard-wiring of this one track for testing purposes, to ajax wiring: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/ajaxWiring1.png" alt="ajaxWiring1"> 
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/ajaxWiring2.png" alt="ajaxWiring2"> 
+
+Creating the getSongJson.php file:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/getJsonFilephp.png" alt="getJsonFilephp"> 
+
+Testing that the arrays do in fact work:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/testingArrays.png" alt="testingArrays"> 
+
+Placing the names of the artist, and the album automatically for each track, instead of having the placeholder for the artists there:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/artistAndAlbumNameAuto.png" alt="artistAndAlbumNameAuto"> 
+
+Result:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/artistAndAlbumNameResult.png" alt="artistAndAlbumNameResult"> 
+
+So now we’re going to create a function that will allow the user to continue the song at the same spot that they paused it before, instead of it just starting the song from the beginning.
+
+This will also prevent the system from writing more than one play at that session for that user, which can lead to misleading counts on how many times the song was played.
+
+A snippet of the code:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/songCountsCode.png" alt="songCountsCode"> 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/songCountsCode2.png" alt="songCountsCode2"> 
+
+And creating the seconds countdown: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/secondsCountdown.png" alt="secondsCountdown"> 
+
+Now we’re creating the function to show the countdown of the seconds as the song continues to play, and the remaining minutes the song has as it plays:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/secondsCountdownAsSongPlays.png" alt="secondsCountdownAsSongPlays">
+
+Result of seconds remaining as the song plays:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/secondsCountdownAsSongPlaysResult.png" alt="secondsCountdownAsSongPlaysResult">
+
+The event handlers are set up to handle mouse events (mousedown, mousemove, and mouseup) on the progress bar and volume bar.
+
+In the case of the volume bar, the code calculates the percentage of the width where the mouse was clicked or moved (e.offsetX / $(this).width()) and sets the volume of the audio element accordingly. It also includes a check to ensure the volume stays within the valid range of 0 to 1.
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/nowPlayingBarPercentageCalc.png" alt="nowPlayingBarPercentageCalc">
+
+Adding another ticket for the issue with the interaction with the play button: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/newJiraTicket.png" alt="newJiraTicket">
+
+Volume bar for volume configured code:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/volumeBarConfig.png" alt="volumeBarConfig">
+
+Result for volume bar: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/volumeBarConfigResult.png" alt="volumeBarConfigResult">
+
+
+
