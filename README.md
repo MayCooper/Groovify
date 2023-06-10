@@ -122,3 +122,89 @@ Creating a database:
 Creating initial tables:
 
 <img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/mySQLTables.png" alt="mySQLTables">
+
+Creating config file to connect to MySQL DB:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/configFile.png" alt="configFile">
+
+Creating functions that will insert into the MySQL database:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/insertIntoMySQL.png" alt="insertIntoMySQL">
+
+Making several tests to see that everything works and that the new user is written to the MySQL DB, and seeing hwo it appears in the MySQL DB, and seeing that the encrypted password inside the database was actually created:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/retestLogin.png" alt="retestLogin">
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/encryptedPasswordMySQL.png" alt="encryptedPasswordMySQL">
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/retestLogin2.png" alt="retestLogin2">
+
+Creating code to check if username and email visitor input already exists:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/visitorInputAlreadyExists.png" alt="visitorInputAlreadyExists">
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/visitorInputAlreadyExists2.png" alt="visitorInputAlreadyExists2">
+
+Creating login error:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/creatingLoginUser.png" alt="creatingLoginUser">
+
+Creating session variables and redirects:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/creatingSessionVariables.png" alt="creatingSessionVariables">
+
+Creating a page redirect that once you register your information and create an account, the site will redirect the user to the home page (now rudimentary still:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/pageRedirects.png" alt="pageRedirects">
+
+Index.php page now redirects to register.php page, unless you login:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/redirects.png" alt="redirects">
+
+Starting to style the login page:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/cssSnippet.png" alt="cssSnippet">
+
+(Note that I changed the login/registration page image later on, which you see as the "final product" image at the top)
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/basicStyling.png" alt="basicStyling">
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/cssStyling.png" alt="cssStyling">
+
+Creating input containers for the login page:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/creatingInputContainers.png" alt="creatingInputContainers">
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/creatingInputContainers2.png" alt="creatingInputContainers2">
+
+Creating separate pages for login and sign up:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/separatePagesForLogin.png" alt="separatePagesForLogin">
+
+Using JQuery to make separate pages for login and sign up:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/jQuerySnippet.png" alt="jQuerySnippet">
+
+Separate pages for login and sign up shown here:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/loginPageSeparation.png" alt="loginPageSeparation">
+
+And error messages may be seen:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/errorMessages.png" alt="errorMessages">
+
+And working on the register_button with the document ready function:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/documentReady.png" alt="documentReady">
+
+More styling, especially for error messages:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/moreStyling.png" alt="moreStyling">
+
+Creating “Now Playing” bar on the bottom of the home page:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/playingButton.png" alt="playingButton">
+
+(Very) humble beginnings for the home page: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/homePageStart.png" alt="homePageStart">
