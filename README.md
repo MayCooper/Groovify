@@ -492,8 +492,19 @@ Rudimentary Result:
 
 <img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/searchFunction.png" alt="searchFunction">
 
+Code to style:
+
+<img src="" alt="codeToStyleSearchFunction">
+
 After styling:
 
 <img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/searchFunctionStyling.png" alt="searchFunctionStyling">
 
+Adding a few small, yet important functions to the search, for example, invalidating the timer, so that when we go to another page after we search, the timer wont continue running. The timer runs whenever you press a letter to search: 
 
+<img src="" alt="codeSnippetTimer">
+
+Creating playlist and playlist Songs in MySQL database:
+
+
+![image](https://github.com/MayCooper/Groovify/assets/82129870/7ebada9d-2f08-4c2c-a75c-6d05ba8b3766)
