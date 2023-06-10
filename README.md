@@ -9,5 +9,5 @@ The registration page of the Groovify app:
 
 Turning on XAMPP:
 
-<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/XAMPP1.png" alt="registrationPage" width="800" height="500">
-<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/XAMPP2.png" alt="registrationPage" width="800" height="500">
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/XAMPP1.png" alt="registrationPage" width="500" height="400">
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/XAMPP2.png" alt="registrationPage" width="500" height="400">
