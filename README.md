@@ -51,3 +51,74 @@ Creating free (obviously) account on bare-bones login structure I created:
 
 <img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/creatingAccount.png" alt="creatingAccount">
 
+Creating validation for inputs such as email or name:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/validationForInputs.png" alt="validationForInputs">
+
+Moving functions to an account class and making them a private class:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/privateClass.png" alt="privateClass">
+
+Creating checks for PHP errors: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/phpErrors.png" alt="phpErrors">
+
+Creating validation and constraints for the user's email: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/emailConstraints.png" alt="emailConstraints">
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/emailConstraints2.png" alt="emailConstraints2">
+
+Other than the fact that we need to style this, we’re checking if the error message shows up with the constraint for the username needing to be at least 4 characters:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/errorMessage.png" alt="errorMessage">
+
+Login with new constraints: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/emailConstraintsLogin.png" alt="emailConstraintsLogin">
+
+Testing error messages:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/errorMessageTest.png" alt="errorMessageTest">
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/errorMessageTest2.png" alt="errorMessageTest2">
+
+We'll test the rudimentary error messages: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/rudimentaryErrorMessages.png" alt="rudimentaryErrorMessages">
+
+Instead of manually having each error code show up, which can cause if issues if you change one letter and it doesn’t match the exact string, we’ll create a function that can be called per error, which is much easier to handle if there are errors in the first place:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/errorFunction.png" alt="errorFunction">
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/allFunctions.png" alt="allFunctions">
+
+Creating constraints: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/constraints1.png" alt="constraints1">
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/constraints2.png" alt="constraints2">
+
+We’ll now create a function for the site to remember your login values. We’ll use the POST method for PHP to echo the last value the user inserted, like so: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/rememberingCredentials.png" alt="rememberingCredentials">
+
+However, if I keep the code that way (above), and it’s a person’s first time signing up, errors might show up in the text box in regards to remembering a username, so we’ll create a function for it instead that will prevent the issue: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/rememberingCredentialsFirstTime.png" alt="rememberingCredentialsFirstTime">
+
+Adding the function so that it would remember all values except the password: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/rememberingCredentialsExceptPass.png" alt="rememberingCredentialsExceptPass">
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/loginTest.png" alt="loginTest">
+
+Now connecting MySQL database:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/mySQLStart.png" alt="mySQLStart">
+
+Creating a database:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/creatingDb.png" alt="creatingDb"> 
+
+Creating initial tables:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/mySQLTables.png" alt="mySQLTables">
