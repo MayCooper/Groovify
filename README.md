@@ -889,7 +889,7 @@ class=GramE>sign up</span> form</span></p>
  visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="Groovify_Process_files/image015.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=623 height=504
-src="Groovify_Process_files/image016.png" v:shapes="_x0000_i1188"><![endif]></span></p>
+src="Groovify_Process_files/image016.png](https://github.com/MayCooper/Groovify/blob/master/projectImages/registrationPage.png" v:shapes="_x0000_i1188"><![endif]></span></p>
 
 <p class=MsoNormal><span lang=EN-US style='mso-no-proof:yes'><!--[if gte vml 1]><v:shape
  id="_x0000_i1187" type="#_x0000_t75" style='width:426.6pt;height:471.6pt;
