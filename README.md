@@ -207,4 +207,67 @@ Creating “Now Playing” bar on the bottom of the home page:
 
 (Very) humble beginnings for the home page: 
 
-<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/homePageStart.png" alt="homePageStart">
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/homePageStart.png" alt="homePageStart"> 
+
+Creating now playing bar beginnings: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/creatingNowPlayingBar.png" alt="creatingNowPlayingBar">
+
+Creating progress bar for the player, buttons, etc:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/progressBar.png" alt="progressBar">
+
+Creating progress bar for the player, buttons, etc:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/progressBarCoding.png" alt="progressBarCoding">
+
+Creating progress bar for the player, previous and next buttons, shuffle, repeat, adding a countdown timer: 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/stylingProgressBar.png" alt="stylingProgressBar">
+
+Styling progress bar for the song as it plays, and the countdown timer:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/addingProgressBarAndTime.png" alt="addingProgressBarAndTime">
+
+Creating album artwork and floating text to the left code & results:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/codeAlbumArtwork.png" alt="codeAlbumArtwork">
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/albumArtwork.png" alt="albumArtwork">
+
+Now creating bar for volume:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/volumeBar.png" alt="volumeBar">
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/volumeBarResults.png" alt="volumeBarResults">
+
+Creating the left navigation bar with the Groovify logo (yes, the camel is the "Groove" ;):
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/leftNavBar.png" alt="leftNavBar">
+
+Underneath the logo, we’ll split the navigation bar into groups. 
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/siteLinksCode.png" alt="siteLinksCode">
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/siteLinks.png" alt="siteLinks">
+
+Creating songs table in MySQL phpMyAdmin:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/createTables.png" alt="createTables"> 
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/createTablesResult.png" alt="createTablesResult"> 
+
+Inserting songs into the database:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/insertingSongs.png" alt="insertingSongs"> 
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/insertingSongsResult.png" alt="insertingSongsResult"> 
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/insertIntoGenres.png" alt="insertIntoGenres">
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/insertIntoArtists.png" alt="insertIntoArtists">
+
+Styling left navigation bar with site links:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/leftSectionStylingCode.png" alt="leftSectionStylingCode">
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/leftSectionStylingResult.png" alt="leftSectionStylingResult">
+
+Organising the header and footer folders away from the index:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/gridViewContainer.png" alt="gridViewContainer">
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/gridViewContainerStyling.png" alt="gridViewContainerStyling">
