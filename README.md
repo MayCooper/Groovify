@@ -5,6 +5,6 @@ You have the ability to upload music, click on albums, and play songs. Additiona
 
 The registration page of the Groovify app:
 
-<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/registrationPage.png" alt="registrationPage" width="500" height="300">
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/registrationPage.png" alt="registrationPage" width="800" height="500">
 
 
