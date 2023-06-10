@@ -502,9 +502,87 @@ After styling:
 
 Adding a few small, yet important functions to the search, for example, invalidating the timer, so that when we go to another page after we search, the timer wont continue running. The timer runs whenever you press a letter to search: 
 
-<img src="" alt="codeSnippetTimer">
+![image](https://github.com/MayCooper/Groovify/assets/82129870/194c83ea-98e1-4a86-9cc5-5a0d1bd01bf5)
 
 Creating playlist and playlist Songs in MySQL database:
 
 
 ![image](https://github.com/MayCooper/Groovify/assets/82129870/7ebada9d-2f08-4c2c-a75c-6d05ba8b3766)
+![image](https://github.com/MayCooper/Groovify/assets/82129870/67940e05-9e66-41aa-b418-c0bd7e7fcca8)
+
+
+Creating the playlist area:
+ 
+![image](https://github.com/MayCooper/Groovify/assets/82129870/610af548-6af8-43f1-80c7-969c59055d7a)
+![image](https://github.com/MayCooper/Groovify/assets/82129870/a871c66c-8fe4-4970-b4ae-dc5b4c8fa290)
+
+Creating the playlist page:
+ 
+![image](https://github.com/MayCooper/Groovify/assets/82129870/11fbf6bb-73c4-44dd-99d8-4f10002e3c8f)
+
+Creating function to delete playlist:
+
+![image](https://github.com/MayCooper/Groovify/assets/82129870/1b680667-fe5a-4274-93f7-974eb6cd8bc2)
+![image](https://github.com/MayCooper/Groovify/assets/82129870/904c2cd3-e0d4-42d5-b5b0-79b8fb131558)
+
+Creating the ability to add songs to a playlist:
+![image](https://github.com/MayCooper/Groovify/assets/82129870/e17b44de-3d2f-47eb-8a14-df4f66dd8650)
+Result:
+![image](https://github.com/MayCooper/Groovify/assets/82129870/4cfe6e33-e1eb-4737-b9c9-3a6736f3ffe0)
+
+Checking if adding to playlist actually works:
+![image](https://github.com/MayCooper/Groovify/assets/82129870/02c084af-99c1-41a4-a103-e131bff510ea)
+
+Now we’ll create an ajax call to add the song to the playlist:
+
+![image](https://github.com/MayCooper/Groovify/assets/82129870/abf4d2b6-60ac-4034-8183-40d065053e41)
+
+Creating the ability to remove from playlist...
+![image](https://github.com/MayCooper/Groovify/assets/82129870/7ecaa394-0d58-4ad0-a442-a1c453c6c725)
+
+Creating the settings page for the end user:
+Code:
+![image](https://github.com/MayCooper/Groovify/assets/82129870/89d1437f-a216-487f-bd35-1484058f430f)
+Result:
+![image](https://github.com/MayCooper/Groovify/assets/82129870/529f02c2-a33c-4248-8099-087e4499e52c)
+
+Creating the page for changing user details such as email and password: 
+![image](https://github.com/MayCooper/Groovify/assets/82129870/ccc79b58-4a4f-42f2-abf7-641badc6d49e)
+
+Rudimentary Settings page:
+![image](https://github.com/MayCooper/Groovify/assets/82129870/f5f8284b-1254-410f-a480-360aa7391730)
+
+Settings page, code:
+![image](https://github.com/MayCooper/Groovify/assets/82129870/0cc89587-b303-42b8-b1ba-54b450d86b93)
+
+Settings page, styled:
+
+![image](https://github.com/MayCooper/Groovify/assets/82129870/8f04239b-5f9b-4bed-8b95-2619a3dfdf94)
+
+Creating ajax calls to update email values in the script.js file:
+
+![image](https://github.com/MayCooper/Groovify/assets/82129870/447d8319-f552-4cee-b9c8-42d40c9895cb)
+
+Creating the update email details PHP page:
+![image](https://github.com/MayCooper/Groovify/assets/82129870/bdd81403-ae99-412a-bce4-90b15553dfec)
+
+Creating the old and new password parameters under the updatePassword.php file: 
+![image](https://github.com/MayCooper/Groovify/assets/82129870/ea5f5844-1071-4578-b2df-343e52aaa054)
+
+Using the Md5 system:
+![image](https://github.com/MayCooper/Groovify/assets/82129870/a5dea779-9e5d-463d-98bd-bce3e1e65025)
+
+Checking all error messages:
+![image](https://github.com/MayCooper/Groovify/assets/82129870/6853f568-0f1c-4c5c-b010-d0380e35999f)
+Checking a different error message:
+![image](https://github.com/MayCooper/Groovify/assets/82129870/4ecab238-ebb5-43fb-9ed6-da2d0f1efeb0)
+
+Changing login image:
+![image](https://github.com/MayCooper/Groovify/assets/82129870/9c68c77d-c85e-45bb-b6d7-dfa1834f18ac)
+
+
+
+
+
+
+
