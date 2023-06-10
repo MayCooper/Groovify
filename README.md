@@ -443,5 +443,57 @@ Result for volume bar:
 
 <img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/volumeBarConfigResult.png" alt="volumeBarConfigResult">
 
+Implementing the nextSong() button:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/nextSongFunction.png" alt="nextSongFunction">
+
+Creating the repeat button:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/repeatButton.png" alt="repeatButton">
+
+Initializing project in git:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/initializingProjectGit.png" alt="initializingProjectGit">
+
+We’re going to set the previous song button to work:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/prevSongButtonCode.png" alt="prevSongButtonCode">
+
+First part of creating the shuffle button:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/shuffleButtonCode.png" alt="shuffleButtonCode">
+
+Returning a copy of the array for the shuffle:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/functionShuffle.png" alt="functionShuffle">
+
+Making the code accessible for disabled persons so that they can use the tab function instead of a clicking a mouse:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/codeAccessibility.png" alt="codeAccessibility">
+
+Making a play button for inside the artist pages:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/playButton.png" alt="playButton">
+
+And styling with songs underneath artist page:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/stylingArtistPage.png" alt="stylingArtistPage">
+
+Making the album image, artist name and song name clickable to all go to the album link page:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/linkingToAlbumPage.png" alt="linkingToAlbumPage">
+
+Creating the structure of the search function of the site…
+
+Code:
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/searchFunctionCode.png" alt="searchFunctionCode">
+
+Rudimentary Result:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/searchFunction.png" alt="searchFunction">
+
+After styling:
+
+<img src="https://github.com/MayCooper/Groovify/blob/master/projectImages/searchFunctionStyling.png" alt="searchFunctionStyling">
 
 
